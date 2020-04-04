@@ -10,6 +10,7 @@ flake8 = "*"
 isort = "*"
 
 [packages]
+hid = "*"
 
 [requires]
 python_version = "3.6"
